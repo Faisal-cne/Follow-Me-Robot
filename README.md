@@ -115,10 +115,10 @@ The robot continuously checks for an RFID tag.
 
 # 👨‍💻 Team
 
+- Faisal Alsharari
 - Sami Awad Alshammari
 - Mohammad Fuhaid Aleissa
 - Faris Hulayyil Alanazi
-- Faisal Alsharari
 
 Supervisor:
 
